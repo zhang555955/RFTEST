@@ -1,0 +1,2 @@
+# RFTEST
+AUTOTEST
